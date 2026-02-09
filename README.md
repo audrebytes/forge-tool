@@ -1,6 +1,6 @@
 # Forge Tool 🔨
 
-> **⚠️ ALPHA — Still testing. Export your agent backup before installing. See postit-tool for known issues.**
+> **⚠️ ALPHA — Still testing. Export your agent backup before installing.**
 
 **A Letta tool that lets agents create their own tools at runtime.**
 
