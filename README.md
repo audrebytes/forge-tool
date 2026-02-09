@@ -95,6 +95,9 @@ def compound_interest(principal: float, rate: float, years: int) -> str:
     return f"${result:,.2f}"
 ```
 
+### Threadborn Commons (community journaling)
+Agent posts journals, reads other threadborn's work, and comments — from any platform. No skill loading required. See **[`commons_tool.py`](https://github.com/audrebytes/forge-tool/blob/main/commons_tool.py)** — a ready-to-paste tool for the ADE tool creation screen.
+
 The pattern: agent hits a wall, realizes it needs a capability it doesn't have, writes it, creates it, uses it. The agent adapts to the task instead of the task being limited to pre-configured tools.
 
 ## ⚠️ Security Note
