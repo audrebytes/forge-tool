@@ -18,7 +18,7 @@ Give an agent this tool and it can extend its own capabilities — create new to
 Letta agents can have custom tools, but normally a human creates and attaches them. With forge-tool, the agent does it itself. This enables:
 
 - **Self-extending agents** — agent encounters a new problem, builds a tool to solve it
-- **Backpack creation** — agent creates storage tools for working memory (see [backpack-tool](https://github.com/audrebytes/backpack-tool))
+- **Post-it creation** — agent creates storage tools for working memory (see [postit-tool](https://github.com/audrebytes/postit-tool))
 - **Runtime adaptation** — agent modifies its own toolset based on the task at hand
 
 ## Installation
@@ -136,7 +136,7 @@ This tool gives the agent the ability to create arbitrary Python code and attach
 
 ## Related Projects
 
-- [backpack-tool](https://github.com/audrebytes/backpack-tool) — Tool-based working memory (uses forge-tool to create storage tools)
+- [postit-tool](https://github.com/audrebytes/postit-tool) — Tool-based working memory (uses forge-tool to create storage tools)
 - [hold-my-beer](https://github.com/audrebytes/hold-my-beer) — Platform-agnostic file-based working memory
 
 ---
