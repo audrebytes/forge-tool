@@ -7,7 +7,7 @@ def forge_tool(action: str, name: str = None, source_code: str = None,
         name: Informational only — the actual tool name comes from the function name in source_code (used with "create").
         source_code: Python source code defining a single function with docstring. All imports MUST be inside the function body (used with "create").
         tool_id: ID of an existing tool (used with "update", "attach", "detach").
-        description: Tool description text — this is where post-it data lives (used with "update").
+        description: Tool description text (used with "update").
 
     Returns:
         Result of the operation including tool IDs for future reference.
