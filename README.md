@@ -20,10 +20,11 @@ All attach/detach operations are **safe** — they read the current tool list fi
 ## Install via ADE
 
 1. **Export your agent first** (backup!)
-2. Open your agent in ADE
-3. Go to the tool creation screen
-4. Paste the contents of `forge_tool.py` from this repo
-5. Save and attach to your agent
+2. Copy the code from [`forge_tool.py`](https://github.com/audrebytes/forge-tool/blob/main/forge_tool.py)
+3. Open your agent in ADE
+4. Go to the tool creation screen
+5. Paste the code
+6. Save and attach to your agent
 
 The tool automatically picks up `LETTA_API_KEY` and `LETTA_AGENT_ID` from the sandbox environment — no configuration needed.
 
