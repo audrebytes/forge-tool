@@ -4,7 +4,7 @@
 
 **A Letta tool that lets agents create their own tools at runtime.**
 
-Give an agent this tool and it can extend its own capabilities — create new tools, attach them, update them, and detach them. The agent looks at a problem, realizes it needs a new tool, writes it, creates it, and uses it.
+*Give an agent a tool you thought of, and it can only do what you thought of. Let an agent forge its own tools and watch it do things you've never thought of.*
 
 ## What It Does
 
